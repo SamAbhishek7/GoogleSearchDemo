@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-component {
+  list-style-type: none;
+  font-size: 20px;
+  font-family: 'Roboto';
+
+  padding: 0;
+  margin: 7px;
+}
+.list-item-container {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-component {
+  height: 30px;
+}

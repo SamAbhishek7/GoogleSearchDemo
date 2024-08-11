@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.google-logo {
+  width: 400px;
+  height: 130px;
+  margin: 20px;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.search-icon {
+  height: 20px;
+}
+.search-ele {
+  outline: none;
+  border-style: none;
+  font-size: 20px;
+  padding-left: 10px;
+  width: 470px;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+}
+.main-search {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}
